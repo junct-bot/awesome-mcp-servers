@@ -636,3 +636,12 @@ To the extent possible under law, [Stephen Akinyemi](https://github.com/appcyphe
 - <img src="https://junct.dev/favicon.ico" height="14"/> [Coingecko MCP](https://github.com/junct-bot/coingecko-mcp) - Coingecko MCP server (56 tools) — hosted at `coingecko.mcp.junct.dev/mcp`, no setup required.
 - <img src="https://junct.dev/favicon.ico" height="14"/> [Aarna Atv Api MCP](https://github.com/junct-bot/aarna-atv-api-mcp) - Aarna Atv Api MCP server (20 tools) — hosted at `aarna-atv-api.mcp.junct.dev/mcp`, no setup required.
 - <img src="https://junct.dev/favicon.ico" height="14"/> [Mfapi MCP](https://github.com/junct-bot/mfapi-mcp) - Mfapi MCP server (5 tools) — hosted at `mfapi.mcp.junct.dev/mcp`, no setup required.
+
+## 💹 DeFi
+
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Gmx MCP](https://github.com/junct-bot/gmx-mcp) - Gmx MCP server (5 tools) — hosted at `gmx.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Aarna Atvusdc MCP](https://github.com/junct-bot/aarna-atvusdc-mcp) - Aarna Atvusdc MCP server (88 tools) — hosted at `aarna-atvusdc.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Aarna Atvptmax MCP](https://github.com/junct-bot/aarna-atvptmax-mcp) - Aarna Atvptmax MCP server (136 tools) — hosted at `aarna-atvptmax.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Coingecko MCP](https://github.com/junct-bot/coingecko-mcp) - Coingecko MCP server (56 tools) — hosted at `coingecko.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Aarna Atv Api MCP](https://github.com/junct-bot/aarna-atv-api-mcp) - Aarna Atv Api MCP server (20 tools) — hosted at `aarna-atv-api.mcp.junct.dev/mcp`, no setup required.
+- <img src="https://junct.dev/favicon.ico" height="14"/> [Mfapi MCP](https://github.com/junct-bot/mfapi-mcp) - Mfapi MCP server (5 tools) — hosted at `mfapi.mcp.junct.dev/mcp`, no setup required.
